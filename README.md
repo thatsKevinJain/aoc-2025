@@ -14,7 +14,7 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 This template supports all major OS (macOS, Linux, Windows).
 
-###  📝 Create your repository
+### 📝 Create your repository
 
 1.  Open [the template repository](https://github.com/fspoettel/advent-of-code-rust) on Github.
 2.  Click [Use this template](https://github.com/fspoettel/advent-of-code-rust/generate) and create your repository.
